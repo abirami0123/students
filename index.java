@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.HashSet;
 import java.util.List;
 
-public class studentnames {
+public class index {
 	public static void main(String[] args)
 	{ 
 		ArrayList<String>names = new ArrayList <String>();
